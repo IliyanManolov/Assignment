@@ -8,3 +8,6 @@ Steps taken:
 - Using deep learning with Visual Geometry Group (VGG-19) architecture
 - 19 layers (16 convolutional, 3 fully conntected)
 - VERY taxing on the hardware & slow
+
+INITIAL RESULTS WHEN CREATING history_03:
+- accuracy: 0.7386 - loss: 0.5746 - val_accuracy: 0.5000 - val_loss: 0.7298 - learning_rate: 1.0000e-04

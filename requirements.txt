@@ -24,8 +24,10 @@ defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
 exceptiongroup @ file:///C:/b/abs_c5h1o1_b5b/croot/exceptiongroup_1706031441653/work
 executing @ file:///opt/conda/conda-bld/executing_1646925071911/work
 fastjsonschema @ file:///C:/b/abs_4ev90296ly/croot/python-fastjsonschema_1731939386416/work
+filelock==3.16.1
 flatbuffers==24.3.25
 fonttools==4.55.2
+fsspec==2024.12.0
 gast==0.4.0
 google-auth==2.36.0
 google-auth-oauthlib==0.4.6
@@ -35,12 +37,14 @@ h11 @ file:///C:/b/abs_1czwoyexjf/croot/h11_1706652332846/work
 h5py==3.12.1
 httpcore @ file:///C:/b/abs_55n7g233bw/croot/httpcore_1706728507241/work
 httpx @ file:///C:/b/abs_43e135shby/croot/httpx_1723474830126/work
+huggingface-hub==0.27.0
 idna==3.10
 imageio==2.36.1
 ipykernel @ file:///C:/b/abs_5etv6sld_j/croot/ipykernel_1728665608850/work
 ipython @ file:///C:/b/abs_53it5seiim/croot/ipython_1726064251844/work
 jedi @ file:///C:/b/abs_1b8kmj7rrm/croot/jedi_1721058359741/work
 Jinja2 @ file:///C:/b/abs_ddyeze2h6_/croot/jinja2_1730903330414/work
+joblib==1.4.2
 json5 @ file:///C:/b/abs_743lprxrv5/croot/json5_1730786818336/work
 jsonschema @ file:///C:/b/abs_394_t6__xq/croot/jsonschema_1728486718320/work
 jsonschema-specifications @ file:///C:/b/abs_0brvm6vryw/croot/jsonschema-specifications_1699032417323/work
@@ -99,13 +103,16 @@ pywinpty @ file:///C:/b/abs_6696uz5mru/croot/pywinpty_1733514639618/work
 PyYAML @ file:///C:/b/abs_14xkfs39bx/croot/pyyaml_1728657968772/work
 pyzmq @ file:///C:/b/abs_89aq69t0up/croot/pyzmq_1705605705281/work
 referencing @ file:///C:/b/abs_09f4hj6adf/croot/referencing_1699012097448/work
+regex==2024.11.6
 requests @ file:///C:/b/abs_c3508vg8ez/croot/requests_1731000584867/work
 requests-oauthlib==2.0.0
 rfc3339-validator @ file:///C:/b/abs_ddfmseb_vm/croot/rfc3339-validator_1683077054906/work
 rfc3986-validator @ file:///C:/b/abs_6e9azihr8o/croot/rfc3986-validator_1683059049737/work
 rpds-py @ file:///C:/b/abs_4b4__dizw9/croot/rpds-py_1732234502033/work
 rsa==4.9
+safetensors==0.4.5
 scikit-image==0.24.0
+scikit-learn==1.6.0
 scipy==1.14.1
 seaborn==0.13.2
 Send2Trash @ file:///C:/b/abs_08dh49ew26/croot/send2trash_1699371173324/work
@@ -121,11 +128,15 @@ tensorflow-estimator==2.10.0
 tensorflow-io-gcs-filesystem==0.31.0
 termcolor==2.5.0
 terminado @ file:///C:/b/abs_25nakickad/croot/terminado_1671751845491/work
+threadpoolctl==3.5.0
 tifffile==2024.9.20
 tinycss2 @ file:///C:/b/abs_52w5vfuaax/croot/tinycss2_1668168823131/work
+tokenizers==0.21.0
 tomli @ file:///C:/Windows/TEMP/abs_ac109f85-a7b3-4b4d-bcfd-52622eceddf0hy332ojo/croots/recipe/tomli_1657175513137/work
 tornado @ file:///C:/b/abs_7bua0304mj/croot/tornado_1718740122405/work
+tqdm==4.67.1
 traitlets @ file:///C:/b/abs_bfsnoxl4pq/croot/traitlets_1718227069245/work
+transformers==4.47.1
 typing_extensions @ file:///C:/b/abs_0as9mdbkfl/croot/typing_extensions_1715268906610/work
 tzdata==2024.2
 urllib3 @ file:///C:/b/abs_9a_f8h_bn2/croot/urllib3_1727769836930/work
